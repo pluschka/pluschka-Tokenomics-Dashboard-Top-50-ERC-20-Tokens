@@ -1,5 +1,7 @@
 # Tokenomics Dashboard – Top 50 ERC-20 Tokens
 
+![TokenomicsMozillaFirefox2025-08-1216-07-01-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/3f1945d2-bc0f-4141-bde6-56f3c1b6f80e)
+
 A descriptive statistics overview of various tokenomics aspects for the top 50 ERC-20 tokens as of July 2025.  
 The analysis covers:  
 - Supply
@@ -53,24 +55,26 @@ Tokenomics/
 
 You can view the dashboard without fetching new data:
 
+```bash
 cd frontend/tokenomics-project
 npm install
 npm run dev
-
+```
 ### Fetching & Processing the Latest Data
 
 To fetch up-to-date data for the top 50 ERC-20 tokens:
-
+```bash
 cd get_data
 pip install -r requirements.txt
 python get_erc20.py
 python main.py
 python preprocess_supply.py
-
+```
+```bash
 cd ../frontend/tokenomics-project
 npm install
 npm run dev
-
+```
 Important Notes
 
 OpenAI API Key Required because main.py uses AI agents to extract qualitative tokenomics data from whitepapers via web search.
