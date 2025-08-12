@@ -1,0 +1,451 @@
+{
+  "total_tokens": 50,
+  "log_base": "e",
+  "bin_edges": [
+    12.0,
+    12.5,
+    13.0,
+    13.5,
+    14.0,
+    14.5,
+    15.0,
+    15.5,
+    16.0,
+    16.5,
+    17.0,
+    17.5,
+    18.0,
+    18.5,
+    19.0,
+    19.5,
+    20.0,
+    20.5,
+    21.0,
+    21.5,
+    22.0,
+    22.5,
+    23.0,
+    23.5,
+    24.0,
+    24.5,
+    25.0,
+    25.5,
+    26.0,
+    26.5,
+    27.0,
+    27.5,
+    28.0,
+    28.5,
+    29.0,
+    29.5,
+    30.0,
+    30.5,
+    31.0,
+    31.5,
+    32.0,
+    32.5,
+    33.0,
+    33.5,
+    34.0,
+    34.5,
+    35.0
+  ],
+  "bin_counts": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    3,
+    2,
+    1,
+    2,
+    3,
+    11,
+    3,
+    3,
+    1,
+    2,
+    5,
+    1,
+    0,
+    4,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0
+  ],
+  "bin_labels": [
+    "163 k \u2013 268 k",
+    "268 k \u2013 442 k",
+    "442 k \u2013 729 k",
+    "729 k \u2013 1 M",
+    "1 M \u2013 2 M",
+    "2 M \u2013 3 M",
+    "3 M \u2013 5 M",
+    "5 M \u2013 9 M",
+    "9 M \u2013 15 M",
+    "15 M \u2013 24 M",
+    "24 M \u2013 40 M",
+    "40 M \u2013 66 M",
+    "66 M \u2013 108 M",
+    "108 M \u2013 178 M",
+    "178 M \u2013 294 M",
+    "294 M \u2013 485 M",
+    "485 M \u2013 800 M",
+    "800 M \u2013 1 B",
+    "1 B \u2013 2 B",
+    "2 B \u2013 4 B",
+    "4 B \u2013 6 B",
+    "6 B \u2013 10 B",
+    "10 B \u2013 16 B",
+    "16 B \u2013 26 B",
+    "26 B \u2013 44 B",
+    "44 B \u2013 72 B",
+    "72 B \u2013 119 B",
+    "119 B \u2013 196 B",
+    "196 B \u2013 323 B",
+    "323 B \u2013 532 B",
+    "532 B \u2013 877 B",
+    "877 B \u2013 1 T",
+    "1 T \u2013 2 T",
+    "2 T \u2013 4 T",
+    "4 T \u2013 6 T",
+    "6 T \u2013 11 T",
+    "11 T \u2013 18 T",
+    "18 T \u2013 29 T",
+    "29 T \u2013 48 T",
+    "48 T \u2013 79 T",
+    "79 T \u2013 130 T",
+    "130 T \u2013 215 T",
+    "215 T \u2013 354 T",
+    "354 T \u2013 583 T",
+    "583 T \u2013 962 T",
+    "962 T \u2013 T+"
+  ],
+  "tokens": [
+    {
+      "name": "Tether_USDt",
+      "total_supply": 167785387638.62183,
+      "log_supply": 25.846,
+      "bin_idx": 27
+    },
+    {
+      "name": "USDC",
+      "total_supply": 64209982667.37016,
+      "log_supply": 24.8854,
+      "bin_idx": 25
+    },
+    {
+      "name": "Chainlink",
+      "total_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 17
+    },
+    {
+      "name": "Ethena_USDe",
+      "total_supply": 9411959993.582762,
+      "log_supply": 22.9652,
+      "bin_idx": 21
+    },
+    {
+      "name": "UNUS_SED_LEO",
+      "total_supply": 985239504.0,
+      "log_supply": 20.7084,
+      "bin_idx": 17
+    },
+    {
+      "name": "Shiba_Inu",
+      "total_supply": 589500993074106.1,
+      "log_supply": 34.0103,
+      "bin_idx": 44
+    },
+    {
+      "name": "Uniswap",
+      "total_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 17
+    },
+    {
+      "name": "Dai",
+      "total_supply": 5365382702.664872,
+      "log_supply": 22.4032,
+      "bin_idx": 20
+    },
+    {
+      "name": "Bitget_Token",
+      "total_supply": 1139992036.1,
+      "log_supply": 20.8543,
+      "bin_idx": 17
+    },
+    {
+      "name": "Pepe",
+      "total_supply": 420689899653543.6,
+      "log_supply": 33.6729,
+      "bin_idx": 43
+    },
+    {
+      "name": "Aave",
+      "total_supply": 16000000.0,
+      "log_supply": 16.5881,
+      "bin_idx": 9
+    },
+    {
+      "name": "Ethena",
+      "total_supply": 15000000000.0,
+      "log_supply": 23.4313,
+      "bin_idx": 22
+    },
+    {
+      "name": "Ondo",
+      "total_supply": 10000000000.0,
+      "log_supply": 23.0259,
+      "bin_idx": 22
+    },
+    {
+      "name": "OKB",
+      "total_supply": 300000000.0,
+      "log_supply": 19.5193,
+      "bin_idx": 15
+    },
+    {
+      "name": "Mantle",
+      "total_supply": 6219316794.99,
+      "log_supply": 22.5509,
+      "bin_idx": 21
+    },
+    {
+      "name": "World_Liberty_Financial_USD",
+      "total_supply": 2167415031.434669,
+      "log_supply": 21.4968,
+      "bin_idx": 18
+    },
+    {
+      "name": "Bonk",
+      "total_supply": 88295385003064.11,
+      "log_supply": 32.1117,
+      "bin_idx": 40
+    },
+    {
+      "name": "POL_(prev._MATIC)",
+      "total_supply": 10474093471.368378,
+      "log_supply": 23.0722,
+      "bin_idx": 22
+    },
+    {
+      "name": "GateToken",
+      "total_supply": 133600000.0,
+      "log_supply": 18.7104,
+      "bin_idx": 13
+    },
+    {
+      "name": "Render",
+      "total_supply": 532888942.3362826,
+      "log_supply": 20.0938,
+      "bin_idx": 16
+    },
+    {
+      "name": "Worldcoin",
+      "total_supply": 10000000000.0,
+      "log_supply": 23.0259,
+      "bin_idx": 22
+    },
+    {
+      "name": "Sky",
+      "total_supply": 23462665147.365967,
+      "log_supply": 23.8787,
+      "bin_idx": 23
+    },
+    {
+      "name": "SPX6900",
+      "total_supply": 930993090.07,
+      "log_supply": 20.6518,
+      "bin_idx": 17
+    },
+    {
+      "name": "First_Digital_USD",
+      "total_supply": 1452465952.200666,
+      "log_supply": 21.0965,
+      "bin_idx": 18
+    },
+    {
+      "name": "Quant",
+      "total_supply": 14881364.0,
+      "log_supply": 16.5156,
+      "bin_idx": 9
+    },
+    {
+      "name": "KuCoin_Token",
+      "total_supply": 142421933.73556715,
+      "log_supply": 18.7743,
+      "bin_idx": 13
+    },
+    {
+      "name": "Injective",
+      "total_supply": 100000000.0,
+      "log_supply": 18.4207,
+      "bin_idx": 12
+    },
+    {
+      "name": "Curve_DAO_Token",
+      "total_supply": 2290739169.101943,
+      "log_supply": 21.5521,
+      "bin_idx": 19
+    },
+    {
+      "name": "FLOKI",
+      "total_supply": 9658963264690.008,
+      "log_supply": 29.8989,
+      "bin_idx": 35
+    },
+    {
+      "name": "PayPal_USD",
+      "total_supply": 1009391467.212268,
+      "log_supply": 20.7326,
+      "bin_idx": 17
+    },
+    {
+      "name": "The_Graph",
+      "total_supply": 11317845701.585182,
+      "log_supply": 23.1496,
+      "bin_idx": 22
+    },
+    {
+      "name": "PAX_Gold",
+      "total_supply": 283380.049,
+      "log_supply": 12.5545,
+      "bin_idx": 1
+    },
+    {
+      "name": "Ethereum_Name_Service",
+      "total_supply": 100000000.0,
+      "log_supply": 18.4207,
+      "bin_idx": 12
+    },
+    {
+      "name": "Immutable",
+      "total_supply": 2000000000.0,
+      "log_supply": 21.4164,
+      "bin_idx": 18
+    },
+    {
+      "name": "PancakeSwap",
+      "total_supply": 364084938.733956,
+      "log_supply": 19.7129,
+      "bin_idx": 15
+    },
+    {
+      "name": "Nexo",
+      "total_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 17
+    },
+    {
+      "name": "Lido_DAO",
+      "total_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 17
+    },
+    {
+      "name": "Tether_Gold",
+      "total_supply": 246524.0,
+      "log_supply": 12.4152,
+      "bin_idx": 0
+    },
+    {
+      "name": "Virtuals_Protocol",
+      "total_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 17
+    },
+    {
+      "name": "JasmyCoin",
+      "total_supply": 50000000000.0,
+      "log_supply": 24.6353,
+      "bin_idx": 25
+    },
+    {
+      "name": "Gala",
+      "total_supply": 45510857339.39763,
+      "log_supply": 24.5412,
+      "bin_idx": 25
+    },
+    {
+      "name": "The_Sandbox",
+      "total_supply": 3000000000.0,
+      "log_supply": 21.8219,
+      "bin_idx": 19
+    },
+    {
+      "name": "Pendle",
+      "total_supply": 281527448.45853144,
+      "log_supply": 19.4557,
+      "bin_idx": 14
+    },
+    {
+      "name": "DeXe",
+      "total_supply": 96504599.33609451,
+      "log_supply": 18.3851,
+      "bin_idx": 12
+    },
+    {
+      "name": "Morpho",
+      "total_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 17
+    },
+    {
+      "name": "USDD",
+      "total_supply": 560329321.0,
+      "log_supply": 20.144,
+      "bin_idx": 16
+    },
+    {
+      "name": "Decentraland",
+      "total_supply": 2193179327.320146,
+      "log_supply": 21.5086,
+      "bin_idx": 19
+    },
+    {
+      "name": "Maple_Finance",
+      "total_supply": 1200275708.54902,
+      "log_supply": 20.9058,
+      "bin_idx": 17
+    },
+    {
+      "name": "Onyxcoin",
+      "total_supply": 48402437326.0,
+      "log_supply": 24.6028,
+      "bin_idx": 25
+    },
+    {
+      "name": "TrueUSD",
+      "total_supply": 494515083.0,
+      "log_supply": 20.0191,
+      "bin_idx": 16
+    }
+  ]
+}

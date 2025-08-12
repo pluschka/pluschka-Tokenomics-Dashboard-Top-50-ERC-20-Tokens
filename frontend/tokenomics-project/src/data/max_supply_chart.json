@@ -1,0 +1,429 @@
+{
+  "total_tokens": 50,
+  "log_base": "e",
+  "bin_edges": [
+    16.0,
+    16.5,
+    17.0,
+    17.5,
+    18.0,
+    18.5,
+    19.0,
+    19.5,
+    20.0,
+    20.5,
+    21.0,
+    21.5,
+    22.0,
+    22.5,
+    23.0,
+    23.5,
+    24.0,
+    24.5,
+    25.0,
+    25.5,
+    26.0,
+    26.5,
+    27.0,
+    27.5,
+    28.0,
+    28.5,
+    29.0,
+    29.5,
+    30.0,
+    30.5,
+    31.0,
+    31.5,
+    32.0,
+    32.5,
+    33.0,
+    33.5,
+    34.0,
+    34.5,
+    35.0
+  ],
+  "bin_counts": [
+    30,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    2,
+    1,
+    5,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0
+  ],
+  "bin_labels": [
+    "No max supply",
+    "8.89 M \u2013 15 M",
+    "15 M \u2013 24 M",
+    "24 M \u2013 40 M",
+    "40 M \u2013 66 M",
+    "66 M \u2013 108 M",
+    "108 M \u2013 178 M",
+    "178 M \u2013 294 M",
+    "294 M \u2013 485 M",
+    "485 M \u2013 800 M",
+    "800 M \u2013 1.32 B",
+    "1.32 B \u2013 2.17 B",
+    "2.17 B \u2013 3.58 B",
+    "3.58 B \u2013 5.91 B",
+    "5.91 B \u2013 9.74 B",
+    "9.74 B \u2013 16 B",
+    "16 B \u2013 26 B",
+    "26 B \u2013 44 B",
+    "44 B \u2013 72 B",
+    "72 B \u2013 119 B",
+    "119 B \u2013 196 B",
+    "196 B \u2013 323 B",
+    "323 B \u2013 532 B",
+    "532 B \u2013 877 B",
+    "877 B \u2013 1.45 T",
+    "1.45 T \u2013 2.38 T",
+    "2.38 T \u2013 3.93 T",
+    "3.93 T \u2013 6.48 T",
+    "6.48 T \u2013 11 T",
+    "11 T \u2013 18 T",
+    "18 T \u2013 29 T",
+    "29 T \u2013 48 T",
+    "48 T \u2013 79 T",
+    "79 T \u2013 130 T",
+    "130 T \u2013 215 T",
+    "215 T \u2013 354 T",
+    "354 T \u2013 583 T",
+    "583 T \u2013 962 T",
+    "962 T \u2013 1586 T"
+  ],
+  "tokens": [
+    {
+      "name": "Shiba_Inu",
+      "max_supply": 589552695333683.0,
+      "log_supply": 34.0104,
+      "bin_idx": 37
+    },
+    {
+      "name": "Bitget_Token",
+      "max_supply": 1139992036.1,
+      "log_supply": 20.8543,
+      "bin_idx": 10
+    },
+    {
+      "name": "Pepe",
+      "max_supply": 420690000000000.0,
+      "log_supply": 33.6729,
+      "bin_idx": 36
+    },
+    {
+      "name": "Ethena",
+      "max_supply": 15000000000.0,
+      "log_supply": 23.4313,
+      "bin_idx": 15
+    },
+    {
+      "name": "Mantle",
+      "max_supply": 6219316795.0,
+      "log_supply": 22.5509,
+      "bin_idx": 14
+    },
+    {
+      "name": "Bonk",
+      "max_supply": 88872433754423.19,
+      "log_supply": 32.1182,
+      "bin_idx": 33
+    },
+    {
+      "name": "GateToken",
+      "max_supply": 300000000.0,
+      "log_supply": 19.5193,
+      "bin_idx": 8
+    },
+    {
+      "name": "Render",
+      "max_supply": 644168762.0,
+      "log_supply": 20.2835,
+      "bin_idx": 9
+    },
+    {
+      "name": "SPX6900",
+      "max_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 10
+    },
+    {
+      "name": "Quant",
+      "max_supply": 14881364.0,
+      "log_supply": 16.5156,
+      "bin_idx": 2
+    },
+    {
+      "name": "KuCoin_Token",
+      "max_supply": 200000000.0,
+      "log_supply": 19.1138,
+      "bin_idx": 7
+    },
+    {
+      "name": "Curve_DAO_Token",
+      "max_supply": 3030303030.299,
+      "log_supply": 21.8319,
+      "bin_idx": 12
+    },
+    {
+      "name": "Immutable",
+      "max_supply": 2000000000.0,
+      "log_supply": 21.4164,
+      "bin_idx": 11
+    },
+    {
+      "name": "PancakeSwap",
+      "max_supply": 450000000.0,
+      "log_supply": 19.9248,
+      "bin_idx": 8
+    },
+    {
+      "name": "Nexo",
+      "max_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 10
+    },
+    {
+      "name": "Virtuals_Protocol",
+      "max_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 10
+    },
+    {
+      "name": "JasmyCoin",
+      "max_supply": 50000000000.0,
+      "log_supply": 24.6353,
+      "bin_idx": 18
+    },
+    {
+      "name": "Gala",
+      "max_supply": 50000000000.0,
+      "log_supply": 24.6353,
+      "bin_idx": 18
+    },
+    {
+      "name": "Morpho",
+      "max_supply": 1000000000.0,
+      "log_supply": 20.7233,
+      "bin_idx": 10
+    },
+    {
+      "name": "Onyxcoin",
+      "max_supply": 48402437326.0,
+      "log_supply": 24.6028,
+      "bin_idx": 18
+    },
+    {
+      "name": "Tether_USDt",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "USDC",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Chainlink",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Ethena_USDe",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "UNUS_SED_LEO",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Uniswap",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Dai",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Aave",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Ondo",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "OKB",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "World_Liberty_Financial_USD",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "POL_(prev._MATIC)",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Worldcoin",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Sky",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "First_Digital_USD",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Injective",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "FLOKI",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "PayPal_USD",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "The_Graph",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "PAX_Gold",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Ethereum_Name_Service",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Lido_DAO",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Tether_Gold",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "The_Sandbox",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Pendle",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "DeXe",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "USDD",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Decentraland",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "Maple_Finance",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    },
+    {
+      "name": "TrueUSD",
+      "max_supply": null,
+      "log_supply": null,
+      "bin_idx": 0
+    }
+  ]
+}

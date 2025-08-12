@@ -1,0 +1,243 @@
+
+
+.wide-content {
+  width: auto;
+  min-width: 2600px;
+}
+
+body {
+  margin: 0;
+  font-family: 'League Spartan', sans-serif;
+  background-color: #f9f9f9;
+  color: #48515f;
+  height: auto;
+  overflow-y: auto;
+}
+
+/* ────── HEADINGS ────── */
+
+h1 {
+  font-size: 5rem;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  letter-spacing: 0.005em;
+  text-transform: uppercase;
+  color: #232e3f;
+}
+
+h2 {
+  font-size: 1.75rem;
+  font-weight: 100;
+  text-align: center;
+  margin-top: 0;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #232e3f;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  margin: 0.5rem 0;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #232e3f;
+}
+
+h4 {
+  font-size: 1.1rem;
+  font-weight: 300;
+  margin: 0.5rem 0;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #232e3f;
+}
+
+
+h5 {
+  font-size: 0.85rem;
+  font-weight: 100;
+  margin: 0.5rem 0;
+  letter-spacing: 0.07em;
+  color: #232e3f;
+}
+
+.h_left{
+  text-align: right;
+}
+
+.h_right{
+  text-align: left;
+}
+
+/* ────── TOOLTIP ────── */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip-text {
+  visibility: hidden;
+  width: 400px;
+  background-color: #232e3f;
+  color: #c8cbcf;
+  text-align: center;
+  border-radius: 12px;
+  padding: 1.7rem;
+  font-size: 0.9rem;
+  font-weight: 300;
+  line-height: 1.4;
+  position: absolute;
+  z-index: 1;
+  top: 90%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* ────── ROADMAP ────── */
+
+.roadmap-container {
+  position: relative;
+  width: 100%;
+  min-height: 3200px;
+  padding-bottom: 400px;
+}
+
+.roadmap-vertical {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  width: 1px;
+  height: 100%;
+  background-color: #cdc6cf;
+  border-radius: 2px;
+  min-height: 2200px;
+  height: 2000px;
+}
+
+.roadmap-horizontal {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  height: 1px;
+  background-color: #cdc6cf;
+  border-radius: 2px;
+}
+
+.roadmap-pointer {
+  position: absolute;
+  left: 50%;
+  height: 1px;
+  background-color: #cdc6cf;
+  border-radius: 2px;
+  width: 200px;
+}
+
+.roadmap-pointer-supply {
+  top: 150px;
+  transform: translateX(-100%);
+}
+
+.roadmap-pointer-class {
+  top: 300px;
+  transform: translateX(0);
+}
+
+.roadmap-pointer-incentive {
+  top: 600px;
+  transform: translateX(0);
+}
+
+.roadmap-pointer-price_and_market {
+  top: 935px;
+  transform: translateX(0);
+}
+
+.roadmap-pointer-risk_and_security {
+  top: 1300px;
+  transform: translateX(0);
+}
+
+.roadmap-pointer-vesting_and_cliff {
+  top: 1670px;
+  transform: translateX(0);
+}
+
+.roadmap-pointer-distribution {
+  top: 1895px;
+  transform: translateX(-100%);
+}
+
+.roadmap-pointer-governance {
+  top: 2025px;
+  transform: translateX(0);
+}
+
+/* ────── KATEGORIE-BOXEN ────── */
+
+.category-box {
+  position: absolute;
+  width: 1000px;
+  padding: 1.7rem;
+  background-color: #f9f9f9;
+  border: 1px solid #a9a4ab;
+  border-radius: 12px;
+  color: #232e3f;
+  font-family: 'League Spartan', sans-serif;
+}
+
+.left {
+  right: 50%;
+  transform: translateX(-200px);
+  text-align: right;
+}
+
+.right {
+  left: 50%;
+  transform: translateX(200px);
+  text-align: left;
+}
+
+.supply {
+  top: 100px;
+}
+
+.class {
+  top: 250px;
+}
+
+.incentive {
+  top: 550px;
+}
+
+.price_and_market {
+  top: 885px;
+}
+
+.risk_and_security {
+  top: 1250px;
+}
+
+.vesting_and_cliff {
+  top: 1620px;
+}
+
+.distribution {
+  top: 1845px;
+}
+
+.governance {
+  top: 1975px;
+}
