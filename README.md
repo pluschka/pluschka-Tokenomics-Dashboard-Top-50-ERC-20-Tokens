@@ -22,21 +22,21 @@ The analysis covers:
 
 ## Project Structure
 
-Tokenomics/
-│
-├── get_data/                      # Python scripts for data fetching & preprocessing
-│   ├── get_erc20.py               # Fetch top 50 ERC-20 tokens from CoinMarketCap
-│   ├── main.py                    # Extract tokenomics info from whitepapers using AI Agents
-│   ├── preprocess_supply.py       # Process supply data into chart-ready JSON
-│   └── requirements.txt           # Python dependencies
-│
-├── frontend/tokenomics-project/   # React + Vite frontend for visualization
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md                      # Project documentation
+Tokenomics/  
+│  
+├── get_data/                      # Python scripts for data fetching & preprocessing  
+│   ├── get_erc20.py               # Fetch top 50 ERC-20 tokens from CoinMarketCap  
+│   ├── main.py                    # Extract tokenomics info from whitepapers using AI Agents  
+│   ├── preprocess_supply.py       # Process supply data into chart-ready JSON  
+│   └── requirements.txt           # Python dependencies  
+│  
+├── frontend/tokenomics-project/   # React + Vite frontend for visualization  
+│   ├── src/  
+│   ├── public/  
+│   ├── package.json  
+│   └── vite.config.js  
+│  
+└── README.md                      # Project documentation  
 
 
 ## Workflow
