@@ -62,7 +62,8 @@ npm run dev
 ```
 ### Fetching & Processing the Latest Data
 
-To fetch up-to-date data for the top 50 ERC-20 tokens:
+To fetch up-to-date data for the top 50 ERC-20 tokens:  
+(optional)
 ```bash
 cd get_data
 pip install -r requirements.txt
@@ -70,6 +71,8 @@ python get_erc20.py
 python main.py
 python preprocess_supply.py
 ```
+  
+must run:
 ```bash
 cd ../frontend/tokenomics-project
 npm install
